@@ -8,7 +8,7 @@ Each notebook is organized in a separate folder, with its corresponding dataset,
 
 | Lesson | Project Title |
 |--------|---------------|
-| Section 2: Regression | [Simple Linear Regression](./section-2-regression/linear_regression) |
+| Section 2: Regression | [Linear Regression](./section_2_linear_regression) |
 
 ## How to use
 
