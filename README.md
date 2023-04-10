@@ -8,7 +8,8 @@ Each notebook is organized in a separate folder, with its corresponding dataset,
 
 | Lesson | Project Title |
 |--------|---------------|
-| Section 2: Regression | [Linear Regression](./section_2_linear_regression) |
+| Section 2: Linear Regression | [Linear Regression](./section_2_linear_regression) |
+| Section 3: Gradient Descent | [Gradient Descent](./section_3_gradient_descent) |
 
 ## How to use
 
